@@ -1,3 +1,7 @@
+> **Fork context:** this repository is a fork of [StefanMaron/bc-code-atlas](https://github.com/StefanMaron/bc-code-atlas). The documentation below retains the original project's authorship. Use the parent repository for its published releases and support guidance; this audit does not establish a separate maintained distribution or promise synchronization.
+>
+> [Compare this fork with its parent](https://github.com/StefanMaron/bc-code-atlas/compare/master...javiarmesto:bc-code-atlas:master). The comparison shows the current differences; fork-specific behavior must be assessed from those changes. Static documentation review: **6 October 2026**; no build, installation or service invocation performed.
+
 # bc-code-atlas
 
 A queryable window into Microsoft Dynamics 365 Business Central's AL source
